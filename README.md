@@ -68,11 +68,12 @@ También exploro el mundo de la automatización y DevOps:
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=C-Ford17&theme=radical&hide_border=true)
+![](https://raw.githubusercontent.com/C-Ford17/C-Ford17/master/profile-summary-card-output/radical/0-profile-details.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C-Ford17&layout=compact&theme=radical&hide_border=true)
+![](https://raw.githubusercontent.com/C-Ford17/C-Ford17/master/profile-summary-card-output/radical/2-most-commit-language.svg)
 
 </div>
+
 
 
 <div align="center">
