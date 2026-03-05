@@ -18,7 +18,7 @@
 Soy un desarrollador de software enfocado en crear **soluciones productivas** y escalables. Me especializo en llevar ideas desde el concepto hasta el despliegue, construyendo aplicaciones web y móviles robustas.
 
 - 💼 Experiencia construyendo sistemas de **ventas**, aplicaciones de **gestión de pedidos** y plataformas de talento.
-- 🛠️ Experto en **.NET**, **PHP** **Angular**, **Next.js**, **Java**, **React** y **bases de datos SQL**.
+- 🛠️ Experto en **.NET**, **PHP**, **Angular**, **Next.js**, **Java**, **React** y **bases de datos SQL**.
 - ☁️ Integrando conocimientos de **MLOps** para optimizar el ciclo de vida del software.
 
 ---
