@@ -18,7 +18,7 @@
 Soy un desarrollador de software enfocado en crear **soluciones productivas** y escalables. Me especializo en llevar ideas desde el concepto hasta el despliegue, construyendo aplicaciones web y móviles robustas.
 
 - 💼 Experiencia construyendo sistemas de **ventas**, aplicaciones de **gestión de pedidos** y plataformas de talento.
-- 🛠️ Experto en **.NET**, **Angular**, **Next.js**, **Java**, **React** y **bases de datos SQL**.
+- 🛠️ Experto en **.NET**, **PHP** **Angular**, **Next.js**, **Java**, **React** y **bases de datos SQL**.
 - ☁️ Integrando conocimientos de **MLOps** para optimizar el ciclo de vida del software.
 
 ---
@@ -54,6 +54,8 @@ También exploro el mundo de la automatización y DevOps:
 ### Backend & Database
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
