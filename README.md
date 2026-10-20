@@ -24,16 +24,21 @@ Soy un desarrollador de software enfocado en crear **soluciones productivas** y 
 ---
 
 ## 💻 Proyectos Destacados
+
 <div align="center">
+
 | 🎵 **ChrisMusic (Desktop & Mobile)** | 🍔 **Restaurant Ordering App** |
 |:---:|:---:|
 | Reproductor de música multiplataforma con descarga offline y controles nativos.<br>![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/ChrisMusic) • [📦 Releases](https://github.com/C-Ford17/ChrisMusic/releases) | Sistema de pedidos listo para producción con integración de códigos QR.<br>![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/restaurante-pedidos) |
+
 | 🎟️ **Events App** | 💼 **Sales System** |
 |:---:|:---:|
 | Aplicación completa para la gestión y reserva de eventos.<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/eventos-app) | Sistema de gestión de ventas completo con reportes y facturación.<br>![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/sales-system) |
+
 | 👥 **Talent Platform** | 🤖 **MLOps Pipeline Inteligente** |
 |:---:|:---:|
 | Plataforma para conectar talento con oportunidades (Talent Match Pro).<br>![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/Talent-Plataform) | Pipeline inteligente de Machine Learning con tracking y CI/CD.<br>![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/mlops-pipeline-inteligente) |
+
 </div>
 
 ### 🔬 Otros Intereses
