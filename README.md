@@ -29,8 +29,6 @@ Soy un desarrollador de software enfocado en crear **soluciones productivas** y 
 | 🎵 **ChrisMusic (Desktop & Mobile)** | 🍔 **Restaurant Ordering App** |
 |:---:|:---:|
 | Reproductor de música multiplataforma con descarga offline y controles nativos.<br>![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/ChrisMusic) • [📦 Releases](https://github.com/C-Ford17/ChrisMusic/releases) | Sistema de pedidos listo para producción con integración de códigos QR.<br>![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)<br>[🔎 Ver Código](https://github.com/C-Ford17/restaurante-pedidos) |
-  
-<div align="center">
 
 | 🍔 **Restaurant Ordering App** | 🎟️ **Events App** |
 |:---:|:---:|
